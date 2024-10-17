@@ -1,4 +1,4 @@
-# BigBasket Product Dataset
+# BigBasket Product Analysis
 
 ![BigBasket Banner](https://www.supermarketperimeter.com/ext/resources/2023/09/28/AdobeStock_626708395.jpeg?height=667&t=1695926873&width=1080)
 
